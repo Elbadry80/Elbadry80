@@ -1,13 +1,53 @@
-Ich bin Mohamed Elbadry, Ingenieur mit rund 10 Jahren Erfahrung in der automobilen Entwicklung und Qualität im BMW-Projektumfeld bei EMS. Als SE-Teamleiter und Modulleiter habe ich technische Änderungen, Lieferanten, Qualitätsmaßnahmen und Freigabeprozesse koordiniert.
+# Mohamed Elbadry
+### Automotive Engineering · Quality Management · Data Science & AI
 
-Meine Schwerpunkte sind die strukturierte Problemlösung, das Änderungs- und Risikomanagement sowie die Zusammenarbeit zwischen Entwicklung, Qualität und Lieferanten. Als Six Sigma Black Belt verbinde ich diese Praxiserfahrung mit Methoden zur datenbasierten Prozessverbesserung.
+Ich verbinde rund 9,5 Jahre Erfahrung in der automobilen Entwicklung
+und Qualität mit praktischen Kenntnissen in Datenanalyse und
+Softwareentwicklung.
 
-Durch mein abgeschlossenes Data Science & AI Bootcamp habe ich mein Profil um Python, SQL, Datenanalyse und Machine Learning erweitert. In meinen Projekten setze ich außerdem Streamlit, automatisierte Tests, GitHub Actions und Docker praktisch ein.
+## Beruflicher Hintergrund
 
-Mein aktuelles Projekt: Quality Issue Copilot
+Im BMW-Projektumfeld bei EMS habe ich als SE-Teamleiter und
+Modulleiter technische Änderungen, Lieferanten, Qualitätsmaßnahmen
+und Freigabeprozesse koordiniert.
 
-Ich entwickle eine Anwendung, die Qualitätsfälle übersichtlich darstellt und anhand hinterlegter Angaben erkennt, ob eine Maßnahme dokumentiert und ihre Wirksamkeit nachgewiesen ist.
+Als Six Sigma Black Belt arbeite ich an strukturierten,
+datenbasierten Lösungen für technische und organisatorische Probleme.
 
-Die lokal vorführbare Demo verwendet synthetische Qualitätsfälle. Datenquelle, Validierung, Bewertungslogik und Benutzeroberfläche sind voneinander getrennt. Zehn automatisierte Tests sowie ein Container-Build mit Start- und Erreichbarkeitsprüfung sichern den aktuellen Entwicklungsstand ab.
+## Kompetenzen
 
-Als Nächstes ergänze ich Maßnahmenbeschreibungen, Verantwortliche, Termine und Wirksamkeitsnachweise. Mein Ziel ist ein nachvollziehbares Werkzeug zur Unterstützung der Qualitätsarbeit, das später an abgestimmte Datenquellen und fachliche Regeln angepasst werden kann.
+- **Automotive:** Komponentenentwicklung, Serienbetreuung und Lieferantenkoordination
+- **Qualität:** Problemlösung, Änderungs-, Risiko- und Freigabemanagement
+- **Daten & KI:** Python, SQL, Datenanalyse und Machine Learning
+- **Softwareentwicklung:** Streamlit, pytest, Git, GitHub Actions und Docker
+
+Mein Data Science & AI Bootcamp bei neue fische habe ich im November 2026 abgeschlossen.
+
+## Aktuelles Projekt: Quality Issue Copilot
+
+Eine lokal vorführbare Streamlit-Anwendung zur Darstellung von
+Qualitätsfällen und zur regelbasierten Bewertung des Maßnahmenstatus.
+
+### Bereits umgesetzt
+
+- Drei synthetische Qualitätsfälle mit unterschiedlichen Maßnahmenstatus
+- Trennung von Demodaten, Datenvalidierung, Fachlogik und Oberfläche
+- JSON-Datenlader zur Prüfung der erforderlichen Angaben
+- Zehn automatisierte Tests
+- Automatische Tests und Container-Build über GitHub Actions
+- Start- und Erreichbarkeitsprüfung des Containers
+
+### Nächste Entwicklungsschritte
+
+- Maßnahmenbeschreibungen, Verantwortliche und Termine ergänzen
+- Wirksamkeitsnachweise nachvollziehbar darstellen
+- Weitere Datenquellen über eine definierte Zuordnung anbinden
+
+Die Demo verwendet synthetische Daten. Sie trifft keine
+Fahrzeugfreigabeentscheidung und verwendet derzeit kein KI-Modell.
+
+## Mein Ziel
+
+Praktische Werkzeuge entwickeln, die Qualitätsinformationen
+übersichtlich aufbereiten und die tägliche Arbeit von
+Engineering- und Qualitätsteams unterstützen.
