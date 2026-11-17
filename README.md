@@ -1,4 +1,4 @@
-Ich bin Mohamed Elbadry, Ingenieur mit rund 9,5 Jahren Erfahrung in der automobilen Entwicklung und Qualität im BMW-Projektumfeld bei EMS. Als SE-Teamleiter und Modulleiter habe ich technische Änderungen, Lieferanten, Qualitätsmaßnahmen und Freigabeprozesse koordiniert.
+Ich bin Mohamed Elbadry, Ingenieur mit rund 10 Jahren Erfahrung in der automobilen Entwicklung und Qualität im BMW-Projektumfeld bei EMS. Als SE-Teamleiter und Modulleiter habe ich technische Änderungen, Lieferanten, Qualitätsmaßnahmen und Freigabeprozesse koordiniert.
 
 Meine Schwerpunkte sind die strukturierte Problemlösung, das Änderungs- und Risikomanagement sowie die Zusammenarbeit zwischen Entwicklung, Qualität und Lieferanten. Als Six Sigma Black Belt verbinde ich diese Praxiserfahrung mit Methoden zur datenbasierten Prozessverbesserung.
 
