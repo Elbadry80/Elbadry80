@@ -1,4 +1,5 @@
 # Mohamed Elbadry
+
 ### Automotive Engineering · Quality Management · Data Science & AI
 
 Ich verbinde rund 9,5 Jahre Erfahrung in der automobilen Entwicklung
@@ -28,6 +29,8 @@ Mein Data Science & AI Bootcamp bei neue fische habe ich im November 2026 abgesc
 Eine lokal vorführbare Streamlit-Anwendung zur Darstellung von
 Qualitätsfällen und zur regelbasierten Bewertung des Maßnahmenstatus.
 
+<img width="1040" height="801" alt="848a869b-b9bd-407e-a5ef-b7617cc18b94" src="https://github.com/user-attachments/assets/1b403608-2693-4356-9d4e-ac4315c27195" />
+
 ### Bereits umgesetzt
 
 - Drei synthetische Qualitätsfälle mit unterschiedlichen Maßnahmenstatus
@@ -51,3 +54,5 @@ Fahrzeugfreigabeentscheidung und verwendet derzeit kein KI-Modell.
 Praktische Werkzeuge entwickeln, die Qualitätsinformationen
 übersichtlich aufbereiten und die tägliche Arbeit von
 Engineering- und Qualitätsteams unterstützen.
+
+     
